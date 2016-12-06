@@ -1,0 +1,93 @@
+/* Footer */
+
+#footer {
+	border-top: 4px solid #003366;
+	display: inline-block;
+	width: 1335px;
+	height: 180px;
+	background-color: #cccccc;
+}
+
+#footerbuttonarray{
+	display: inline-block;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+#footerbutton1{
+	display: inline-flex;
+}
+
+#footerbutton2{
+	display: inline-flex;
+}
+
+#footerbutton3{
+	display: inline-flex;
+}
+
+.footerbutton img{
+	float: left;
+	width: 35px;
+	height: 32px;
+}
+
+#buttontextarray{
+	line-height: 0px;
+	display: inline-block;
+	margin-left: 5px;
+}
+
+#footerbuttonarray img{
+	height: 25px;
+	width: 25px;
+}
+
+.buttontext p{
+	font-family: Lato;
+	color: #003366;
+	font-style: italic;
+	float: left;
+}
+
+.buttonstext {
+    display: none;
+    font-family: Lato;
+    font-style: italic;
+    color: #003366;
+    line-height: 22px;
+    height: auto;
+    width: auto;
+    margin-left:10px;
+}
+
+a:hover + .buttonstext{
+    display: block;
+}
+
+
+#footerwords{
+	font-family: Lato;
+	text-align: center;
+	margin-top: 5px;
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.footertext{
+	color: #ffffff;
+	font-family: Lato;
+	font-size: 18px;
+}
+
+
+.authornames{
+	margin-top: 35px;
+	color: #003366;
+	font-family: Lato;
+	font-size: 12px;
+}
+
+.bluename {
+	color: #003366;
+}

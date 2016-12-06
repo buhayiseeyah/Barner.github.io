@@ -1,0 +1,250 @@
+/* Header */
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+}
+
+#content{
+	margin-bottom: 55px;
+}
+
+/*Main Header*/
+
+#headercontent {
+	display: inline-flex;
+	border-radius: 15px;
+	width: 82%;
+	margin-top: -10px;
+	margin-bottom: -65px;
+	height: 120px;
+	background-color: #ffffff;
+	margin-left: 115px;
+	margin-right: 115px;
+}
+
+/*Barner Logo*/
+
+.BCAlogo{
+	float: left;
+	margin-top: 30px;
+	width: 110px;
+	height: 115px;
+}
+
+/*Barner Words*/
+
+#headername{
+	margin-top: 22px;
+}
+
+#headertitle{
+	font-size: 35px;
+	color: #003366;
+}
+
+#headersubtitle{
+	font-family: Lato;
+	margin-left: 50px;
+	color: #aaaaaa;
+	margin-top: -35px;
+	font-style: italic;
+}
+
+#headerbuttons{
+	margin-top: 35px;
+	margin-left: 460px;
+	display: inline-flex;
+}
+
+#headerbuttons p{
+	font-family: Lato;
+}
+
+#LoginAdjust{
+	margin-right: 5px;
+}
+
+#SignUp{
+	color: #003366;
+	padding: 7px;
+	border: 2px solid #003366;
+}
+
+#SignUp:hover{
+	transition: 0.3s ease-in-out;
+	color:  #ffffff;
+	background-color: #003366;
+	padding: 7px;
+	border: 2px solid #003366;
+}
+
+.headermenu{
+	text-align: center;
+	margin-left: 795px;
+	margin-top: 72px;
+	display: inline-flex;
+}
+
+.headermenu p {
+	margin-left: 15px;
+	margin-right: 15px;
+	color: #cccccc;
+	font-size: 14px;
+	font-family: Lato;
+	margin-left: 15px;
+}
+
+.headermenu p:hover {
+	color: #003366;
+}
+
+#headerlinebar{
+	border-bottom: 4px solid #003366;
+	margin-left: 115px;
+	width: 1095px;
+}
+
+
+
+/* Sponsor */
+
+.headermenu1{
+	text-align: center;
+	margin-left: 717px;
+	margin-top: 72px;
+	display: inline-flex;
+}
+
+.headermenu1 p {
+	margin-left: 15px;
+	margin-right: 15px;
+	color: #cccccc;
+	font-size: 14px;
+	font-family: Lato;
+	margin-left: 15px;
+}
+
+.headermenu1 p:hover {
+	color: #003366;
+}
+
+#label_sponsor p{
+	margin-left: 470px;
+	margin-top: -5px;
+	display: inline-block;
+}
+
+.sponsorWelcomeLogo{
+	margin-left: 405px;
+	float: right;
+	margin-top: -8px;
+	width: 200px;
+	height: 50px;
+}
+
+#sponsorWelcomeTitle{
+	font-family: Lato;
+	font-size: 20px;
+	color: white;
+	
+}
+
+#sponsorWelcomeTitle p{
+margin-top: -35px;
+}
+
+
+
+/* Regular Admin */
+
+.headermenu2{
+	text-align: center;
+	margin-left: 460px;
+	margin-top: 72px;
+	display: inline-flex;
+}
+
+.headermenu2 p {
+	margin-left: 15px;
+	margin-right: 15px;
+	color: #cccccc;
+	font-size: 14px;
+	font-family: Lato;
+	margin-left: 15px;
+}
+
+.headermenu2 p:hover {
+	color: #003366;
+}
+
+#label_admin p{
+	margin-left: 475px;
+	margin-top: -5px;
+	display: inline-block;
+}
+
+.adminWelcomeLogo{
+	margin-left: 405px;
+	float: right;
+	margin-top: -8px;
+	width: 200px;
+	height: 50px;
+}
+
+#adminWelcomeTitle{
+	font-family: Lato;
+	font-size: 20px;
+	color: white;
+}
+
+#adminWelcomeTitle p{
+margin-top: -35px;
+}
+
+
+
+/* Master Admin */
+
+.headermenu3{
+	text-align: center;
+	margin-left: 338px;
+	margin-top: 72px;
+	display: inline-flex;
+}
+
+.headermenu3 p {
+	margin-left: 15px;
+	margin-right: 15px;
+	color: #cccccc;
+	font-size: 14px;
+	font-family: Lato;
+	margin-left: 15px;
+}
+
+.headermenu3 p:hover {
+	color: #003366;
+}
+
+#label_master p{
+	margin-left: 475px;
+	margin-top: -5px;
+	display: inline-block;
+}
+
+.masterWelcomeLogo{
+	margin-left: 405px;
+	float: right;
+	margin-top: -8px;
+	width: 200px;
+	height: 50px;
+}
+
+#masterWelcomeTitle{
+	font-family: Lato;
+	font-size: 20px;
+	color: white;
+}
+
+#masterWelcomeTitle p{
+margin-top: -35px;
+}
